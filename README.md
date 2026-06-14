@@ -6,7 +6,7 @@ This study was carried out to examine the differences between analog and digital
 
 Circuit Schematic
 
-![Circuit Schematic](led-simulation.png)
+![Circuit Schematic](proteus-dc-simulation-basic/led-simulation.png)
 
 Technical Analysis and Theoretical Calculation
 
